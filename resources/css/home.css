@@ -156,7 +156,7 @@ html {
 }
 
 .down-arrow {
-            font-size: 1em; /* Adjust the font size for a bigger arrow */
+            font-size: 2em; /* Adjust the font size for a bigger arrow */
             color: green; /* Set the color of the arrow */
            
         }
@@ -186,7 +186,7 @@ html {
         }
 .content-for-home .img-container {
     width: 500px;
-    height: 400px;
+    height: 500px;
     background: url("../img/kpg.png") no-repeat top left;
     background-size: cover;
     
