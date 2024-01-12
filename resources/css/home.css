@@ -214,8 +214,8 @@ html {
   }
 }
 .content-for-home .img-container {
-    width: 500px;
-    height: 500px;
+    width: 400px;
+    height: 400px;
     background: url("../img/kpg.png") no-repeat top left;
     background-size: cover;
     
